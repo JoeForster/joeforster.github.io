@@ -29,7 +29,7 @@ twitter_username: Imek
 github_username:  JoeForster
 
 # Build settings
-theme: jekyll-theme-tactile
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
