@@ -23,3 +23,5 @@ I'm currently working on an exciting and ambitious multiplayer game project at [
 
 * [LinkedIn](https://www.linkedin.com/in/joeforster/)
 * [CV (PDF)](https://www.dropbox.com/s/nbjkdgwnunwjswh/JForsterCV.pdf?dl=1)
+* [GitHub](https://github.com/JoeForster) - for my most recent personal projects.
+* [BitBucket](https://bitbucket.org/dashboard/repositories) - for my older personal projects that I haven't touched in a while.
