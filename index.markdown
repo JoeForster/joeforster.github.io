@@ -22,6 +22,6 @@ I'm currently working on an exciting and ambitious multiplayer game project at [
 # Links
 
 * [LinkedIn](https://www.linkedin.com/in/joeforster/)
-* [CV (PDF)](https://www.dropbox.com/s/nbjkdgwnunwjswh/JForsterCV.pdf?dl=1)
+* [CV (PDF)](https://www.dropbox.com/scl/fi/88ft2p21r907lcyhvtqtl/JForsterCV.pdf?rlkey=u4v891rzic74l2uxptqkdfpum&st=4v5l1xja&dl=1)
 * [GitHub](https://github.com/JoeForster) - for my most recent personal projects.
 * [BitBucket](https://bitbucket.org/Imek) - for my older personal projects that I haven't touched in a while.
